@@ -23,7 +23,7 @@ Nesse desafio, você trabalhará no desenvolvimento de uma solução **Web** ou 
 - Não se esqueça, esse desafio deve ser feito exclusivamente **por você**. ;)
 
 ## Envie o seu código
-Antes de tudo, para iniciar o teste, faça um fork deste repositório, crie uma branch com o seu **usuario-do-github** e depois nos envie um pull request. Se você apenas clonar o repositório, você não vai conseguir fazer o push, e depois vai ser mais complicado fazer o pull request. Você receberá um feedback assim que o seu pull request for avaliado.
+Não envie sua resolução por email. Crie um repositório em alguma ferramenta (Github :heart:, Bitbucket ou Gitlab) e passe o link. Caso não possua nenhum desses serviços, gere um .zip dos arquivos, suba-os no Google Drive, Dropbox ou One Drive e passe o link do arquivo por e-mail.
 
 ## Dúvidas?
 Caso você tenha ficado com alguma dúvida [abra uma issue](https://github.com/ForLogic/desafio-4-devs/issues) e nós vamos te ajudar.
