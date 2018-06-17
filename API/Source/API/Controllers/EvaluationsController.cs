@@ -34,6 +34,7 @@ namespace Forlogic.Challenge.API.Controllers
         }
 
         [HttpPost]
+        [Route("")]
         [@Authorize]
         public async Task<IHttpActionResult> Post([FromBody]dynamic data)
         {
