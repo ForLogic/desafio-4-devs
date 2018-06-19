@@ -100,12 +100,12 @@
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Auth\Authorize.cs" />
-    <Compile Include="Auth\Token.cs" />
+    <Compile Include="Helpers\Auth\Authorize.cs" />
+    <Compile Include="Helpers\Auth\Token.cs" />
     <Compile Include="Controllers\CustomersController.cs" />
     <Compile Include="Controllers\EvaluationsController.cs" />
     <Compile Include="Controllers\TestController.cs" />
-    <Compile Include="Middlewares\ErrorHandlingMiddleware.cs" />
+    <Compile Include="Helpers\Middlewares\ErrorHandlingMiddleware.cs" />
     <Compile Include="Startup.cs" />
     <Compile Include="WebApiConfig.cs" />
     <Compile Include="Global.asax.cs">

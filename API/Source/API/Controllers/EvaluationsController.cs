@@ -1,4 +1,4 @@
-﻿using Forlogic.Challenge.API.Auth;
+﻿using Forlogic.Challenge.API.Helpers.Auth;
 using Newtonsoft.Json;
 using System.Net;
 using System.Net.Http;

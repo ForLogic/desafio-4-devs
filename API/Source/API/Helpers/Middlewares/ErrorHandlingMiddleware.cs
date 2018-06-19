@@ -3,7 +3,7 @@ using Newtonsoft.Json;
 using System;
 using System.Threading.Tasks;
 
-namespace Forlogic.Challenge.API.Middlewares
+namespace Forlogic.Challenge.API.Helpers.Middlewares
 {
     public class ErrorHandlingMiddleware : OwinMiddleware
     {

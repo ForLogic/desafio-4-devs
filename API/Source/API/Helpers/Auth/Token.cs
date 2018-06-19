@@ -1,6 +1,6 @@
 ﻿using System.Web.Http.Controllers;
 
-namespace Forlogic.Challenge.API.Auth
+namespace Forlogic.Challenge.API.Helpers.Auth
 {
     public static class Token
     {

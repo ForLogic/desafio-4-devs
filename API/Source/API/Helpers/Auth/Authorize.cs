@@ -2,7 +2,7 @@
 using System.Web.Http;
 using System.Web.Http.Controllers;
 
-namespace Forlogic.Challenge.API.Auth
+namespace Forlogic.Challenge.API.Helpers.Auth
 {
     public class Authorize : AuthorizeAttribute
     {

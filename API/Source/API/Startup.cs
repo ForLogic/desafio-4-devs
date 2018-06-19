@@ -1,4 +1,4 @@
-﻿using Forlogic.Challenge.API.Middlewares;
+﻿using Forlogic.Challenge.API.Helpers.Middlewares;
 using Owin;
 using System.Web.Http;
 
