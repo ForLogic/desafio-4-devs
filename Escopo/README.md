@@ -2,7 +2,7 @@
 Em uma conversa com a área da empresa responsável pela pesquisa, foi identificado que a aplicação precisará de ao menos dois cadastros, um cadastro de clientes e outro onde serão registradas as avaliações mensais.
 
 ## Cadastro de clientes
-Para o cadastro do cliente são necessárias 3 informações básicas: **nome**, **nome do contato (responsável)** e a **data em que se tornou cliente**.
+Para o cadastro do cliente são necessárias 3 informações básicas: **nome do cliente (razão social ou nome fantasia)**, **nome do contato (pessoa responsável)** e a **data em que se tornou cliente**.
 
 Nesse cadastro serão necessárias as seguintes validações:
 - Todos os campos são obrigatórios;
