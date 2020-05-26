@@ -46,7 +46,7 @@ Não é necessário fazer todos os itens do nível recomendável ou avançado. V
 No dia e horário combinados você deverá apresentar e explicar para algumas pessoas o que conseguiu desenvolver, as dificuldades que teve e as motivações para usar uma ou outra tecnologia e estratégia.
 
 ## Envie o seu código
-É importante que o projeto desenvolvido seja enviado até o final da apresentação. Não envie sua resolução por email. Crie um repositório em alguma ferramenta (Github :heart:, Bitbucket ou Gitlab) e passe o link. Caso não possua nenhum desses serviços, gere um .zip dos arquivos, suba-os no Google Drive, Dropbox ou One Drive e passe o link do arquivo por e-mail.
+É importante que o projeto desenvolvido seja enviado até um dia antes do dia da apresentação. Não envie sua resolução por email. Crie um repositório em alguma ferramenta (Github :heart:, Bitbucket ou Gitlab) e passe o link. Caso não possua nenhum desses serviços, gere um .zip dos arquivos, suba-os no Google Drive, Dropbox ou One Drive e passe o link do arquivo por e-mail.
 
 ## Dúvidas?
 Caso apareçam dúvidas entre em contato o mais cedo possível. Seu tempo está correndo.
