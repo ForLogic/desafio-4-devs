@@ -19,23 +19,25 @@ Nesse desafio, você trabalhará no desenvolvimento de uma aplicação **Web**, 
   - Aplicação rodando
 - Recomendável
   - Aplicação responsiva
-  - Autenticação
+  - Autenticação dos usuários (login)
+  - Validação das regras da aplicação no frontend e no backend
 - Avançado
   - Permissões para os usuários
   - Arquitetura de microsserviços
   - Registro de logs para todas as ações
   - Replicação em banco de dados NoSQL para consultas
+  - Cuidados com a segurança das informações
   - Relatório(s)
 
 ## Orientações gerais
 - As telas da aplicação devem ser criadas de acordo com o **que você entender do contexto**, sempre de forma que facilite a utilização pelos usuários.
 - Fique à vontade para utilizar a linguagem, framework ou tecnologias que você quiser. Se já tiver alguma experiência ou familiaridade, recomendamos a stack:
-  - backend: C# com .net core 3.1
-  - frontend: Angular 8/9
-  - banco de dados: SQL Server
-- Você será o responsável por todo o desenvolvimento dessa aplicação, incluindo frontend, backend e bancos de dados.
+  - **backend**: C# com .net core 3.1
+  - **frontend**: Angular 8/9
+  - **banco de dados**: SQL Server
+- Você será o responsável por todo o desenvolvimento dessa aplicação (frontend, backend, bancos de dados e o que mais a sua imaginação mandar).
 - Se você não entender ou não souber implementar algo que foi solicitado, é importante que você se concentre em entregar **o que você sabe**.
-- Não se esqueça, uma regra muito importante desse desafio é que ele deve ser feito **exclusivamente por você**. ;)
+- Uma regra muito importante desse desafio é que ele deve ser feito **exclusivamente por você**. ;)
 
 ## Apresentação
 No dia e horário combinados você deverá apresentar e explicar para algumas pessoas o que conseguiu desenvolver, as dificuldades que teve e as motivações para usar uma ou outra tecnologia e estratégia.
