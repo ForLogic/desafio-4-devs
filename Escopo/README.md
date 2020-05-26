@@ -22,12 +22,12 @@ Regras/validações:
 Ao cadastrar uma avaliação, são necessárias as informações:
 - Mês/ano de referência *(obrigatório)*
 - Clientes que participaram da avaliação *(seleção múltipla; obrigatório)*
-- Nota/avaliação de cada cliente *(valor numérico)*
-- Motivo da nota/avaliação *(texto descritivo)*
+- Nota/avaliação de cada cliente *(valor numérico; obrigatório)*
+- Motivo da nota/avaliação *(texto descritivo; obrigatório)*
 
 Regras/validações:
--	Só é possível realizar 1 (uma) avaliação por mês
-- Na seleção de clientes deve ser possível ver a data da última avaliação de cada um
+-	Só é possível realizar uma avaliação por mês
+- Na seleção de clientes deve ser possível ver a data da última avaliação de cada um, pois o usuário priorizará clientes que tenham participado há mais tempo
 - O usuário poderá selecionar a quantidade de clientes que desejar, mas a aplicação mostrará o percentual que os clientes selecionados representam do total
 
 ### Como uma avaliação é realizada
