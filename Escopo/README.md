@@ -11,7 +11,7 @@ O cadastro dos clientes terão as seguintes informações:
 Regras/validações:
 - Apenas os campos `Nome do cliente` e `Nome do contato` são obrigatórios
 - Não deve ser possível cadastrar o mesmo CNPJ mais de uma vez
-- Deve ser possível buscar clientes pelo nome
+- Deve ser possível fazer buscas pelo nome do cliente
 - Cada cliente deverá ter um sinalizador indicando a sua categoria de acordo com a sua última avaliação:
   - Promotor: Nota 9 ou 10
   - Neutro: Nota 7 ou 8
@@ -21,9 +21,9 @@ Regras/validações:
 ## Registro de avaliações
 Ao cadastrar uma avaliação, são necessárias as informações:
 - Mês/ano de referência *(obrigatório)*
-- Clientes que participaram da avaliação *(seleção múltipla; obrigatório)*
-- Nota/avaliação de cada cliente *(valor numérico; obrigatório)*
-- Motivo da nota/avaliação *(texto descritivo; obrigatório)*
+- Quais clientes participaram da avaliação *(seleção múltipla; obrigatório)*
+- Nota/avaliação para cada cliente participante *(valor numérico; obrigatório)*
+- Motivo da nota/avaliação para cada cliente participante *(texto descritivo; obrigatório)*
 
 Regras/validações:
 -	Só é possível realizar uma avaliação por mês
