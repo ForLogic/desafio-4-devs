@@ -10,8 +10,8 @@ O cadastro dos clientes terão as seguintes informações:
 
 Regras/validações:
 - Apenas os campos `Nome do cliente` e `Nome do contato` são obrigatórios
-- Não deve ser possível cadastrar o mesmo CNPJ mais de uma vez
-- Deve ser possível fazer buscas pelo nome do cliente
+- Quando informado, não deve ser possível cadastrar o mesmo `CNPJ` mais de uma vez
+- Deve ser possível fazer buscas pelo `Nome do cliente`
 - Cada cliente deverá ter um sinalizador indicando a sua categoria de acordo com a sua última avaliação:
   - Promotor: Nota 9 ou 10
   - Neutro: Nota 7 ou 8
