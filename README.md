@@ -15,13 +15,13 @@ Atualmente é utilizada uma planilha em Excel para registrar as informações de
 Nesse desafio, você trabalhará no desenvolvimento de uma aplicação **Web**, para atender essa necessidade. Na seção [Escopo](https://github.com/ForLogic/desafio-4-devs/tree/master/Escopo) estão descritas as funcionalidades necessárias para a aplicação.
 
 ## Escolha o tamanho do seu desafio
-- Mínimo
+- **Mínimo**
   - Aplicação rodando
-- Recomendável
+- **Recomendável**
   - Aplicação responsiva
   - Autenticação dos usuários (login)
   - Validação das regras da aplicação no frontend e no backend
-- Avançado
+- **Avançado**
   - Permissões para os usuários
   - Arquitetura de microsserviços
   - Registro de logs para todas as ações
@@ -46,6 +46,6 @@ No dia e horário combinados você deverá apresentar e explicar para algumas pe
 É importante que o projeto desenvolvido seja enviado até o final da apresentação. Não envie sua resolução por email. Crie um repositório em alguma ferramenta (Github :heart:, Bitbucket ou Gitlab) e passe o link. Caso não possua nenhum desses serviços, gere um .zip dos arquivos, suba-os no Google Drive, Dropbox ou One Drive e passe o link do arquivo por e-mail.
 
 ## Dúvidas?
-Seu tempo está correndo. Caso apareçam dúvidas entre em contato o mais cedo possível.
+Caso apareçam dúvidas entre em contato o mais cedo possível. Seu tempo está correndo.
 
 **Boa sorte! xD**
