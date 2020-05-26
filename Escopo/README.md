@@ -1,27 +1,34 @@
 # Escopo
 Em uma conversa com a área da empresa responsável pela pesquisa, foi identificado que a aplicação precisará de ao menos dois cadastros, um cadastro de clientes e outro onde serão registradas as avaliações mensais.
 
-## Cadastro de clientes
-Para o cadastro do cliente são necessárias 3 informações básicas: **nome do cliente (razão social ou nome fantasia)**, **nome do contato (pessoa responsável)** e a **data em que se tornou cliente**.
+## Cadastro dos clientes
+O cadastro dos clientes terão as seguintes informações: 
+- Nome do cliente (razão social ou nome fantasia)
+- Nome da pessoa de contato (responsável)
+- CNPJ
+- Data em que se tornou cliente
 
-Nesse cadastro serão necessárias as seguintes validações:
-- Todos os campos são obrigatórios;
+Regras/validações:
+- Apenas os campos `Nome do cliente` e `Nome do contato` são obrigatórios
+- Não deve ser possível cadastrar o mesmo CNPJ mais de uma vez
+- Deve ser possível buscar clientes pelo nome
 - Cada cliente deverá ter um sinalizador indicando a sua categoria de acordo com a sua última avaliação:
   - Promotor: Nota 9 ou 10
   - Neutro: Nota 7 ou 8
   - Detrator: Nota de 0 a 6
   - Nenhum: Para casos onde o cliente ainda não tenha participado de uma avaliação
 
-## Cadastro de avaliações
-Ao cadastrar uma avaliação, são necessárias duas informações:
-- Mês e ano de referência *(obrigatório)*;
-- Clientes que participaram da avaliação *(seleção múltipla; obrigatório)*;
+## Registro de avaliações
+Ao cadastrar uma avaliação, são necessárias as informações:
+- Mês/ano de referência *(obrigatório)*
+- Clientes que participaram da avaliação *(seleção múltipla; obrigatório)*
+- Nota/avaliação de cada cliente *(valor numérico)*
+- Motivo da nota/avaliação *(texto descritivo)*
 
-As seguintes validações devem ser feitas:
--	Só é possível realizar 1 (uma) avaliação por mês;
-- Cada avaliação é composta por 20% dos clientes cadastrados;
-- Após participar de uma avaliação, o mesmo cliente só poderá ser selecionado novamente depois de **duas avaliações**;
-  - *Ex.: Se o cliente participou da avaliação no mês **03/2018**, o mesmo só poderá participar de uma nova avaliação no mês **06/2018***
+Regras/validações:
+-	Só é possível realizar 1 (uma) avaliação por mês
+- Na seleção de clientes deve ser possível ver a data da última avaliação de cada um
+- O usuário poderá selecionar a quantidade de clientes que desejar, mas a aplicação mostrará o percentual que os clientes selecionados representam do total
 
 ### Como uma avaliação é realizada
 A pesquisa de satisfação é composta de duas perguntas, feitas individualmente para cada cliente participante:
@@ -40,7 +47,17 @@ De acordo com a pontuação dada na questão 1, os participantes são classifica
 
 O resultado da avaliação é obtido através da seguinte equação:
 
-`NPS = ((total de promotores - total de detratores) / total de participantes) * 100`
+`NPS = ((qtd de promotores - qtd de detratores) / qtd total de participantes) * 100`
+
+**Exemplo:**
+Participantes | Qtd
+------------- | ---
+Promotores | 19
+Neutros | 4
+Detratores | 2
+Total | 25
+
+`NPS` = 68
 
 ### Divulgação do resultados
 Na aplicação deve ser possível visualizar o resultado de cada mês em que foi realizada uma avaliação.
@@ -49,8 +66,3 @@ A meta é 80%, assim os resultados deverão ser exibidos da seguinte maneira:
 - Em caso de meta atingida: Cor verde
 - Em caso de meta dentro da tolerância (Entre 60% e 79,99%): Cor amarela
 - Em caso de meta não atingida: Cor vermelha
-
-## Dúvidas?
-Caso você tenha ficado com alguma dúvida [abra uma issue](https://github.com/ForLogic/desafio-4-devs/issues) e nós vamos te ajudar.
-
-**Boa sorte! xD**
