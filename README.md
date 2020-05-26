@@ -35,9 +35,9 @@ Não é necessário fazer todos os itens do nível recomendável ou avançado. V
 ## Orientações gerais
 - As telas da aplicação devem ser criadas de acordo com o **que você entender do contexto**, sempre de forma que facilite a utilização pelos usuários.
 - Fique à vontade para utilizar a linguagem, framework ou tecnologias que você quiser. Se já tiver alguma experiência ou familiaridade, recomendamos a stack:
-  - **backend**: C# com .net core 3.1
-  - **frontend**: Angular 8/9
-  - **banco de dados**: SQL Server
+  - **backend**: C# com .net core 2.2 ou 3.1
+  - **frontend**: Angular 8 ou 9
+  - **banco de dados**: SQL Server 2017
 - Você será o responsável por todo o desenvolvimento dessa aplicação (frontend, backend, bancos de dados e o que mais a sua imaginação mandar).
 - Se você não entender ou não souber implementar algo que foi solicitado, é importante que você se concentre em entregar **o que você sabe**.
 - Uma regra muito importante desse desafio é que ele deve ser feito **exclusivamente por você**. ;)
