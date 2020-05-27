@@ -39,8 +39,8 @@ Não é necessário fazer todos os itens do nível recomendável ou avançado. V
   - **frontend**: Angular 8 ou 9
   - **banco de dados**: SQL Server 2017
 - Você será o responsável por todo o desenvolvimento dessa aplicação (frontend, backend, bancos de dados e o que mais a sua imaginação mandar).
-- Se você não entender ou não souber implementar algo que foi solicitado, é importante que você se concentre em entregar **o que você sabe**.
-- Uma regra muito importante desse desafio é que ele deve ser feito **exclusivamente por você**. ;)
+- Se você não entender ou não souber implementar algo que foi solicitado, é importante que você se concentre em entregar **o que você conseguir**. Recomendamos que não desista, mas se for desistir nos comunique imediatamente para cancelarmos o nosso compromisso.
+- Uma regra muito importante desse desafio é que ele deve ser feito **exclusivamente por você**. É claro que você poderá consultar a Internet ou pedir alguma ajuda, mas a intenção desse desafio é avaliar os seus conhecimentos e experiência. ;)
 
 ## Apresentação
 No dia e horário combinados você deverá apresentar e explicar para algumas pessoas o que conseguiu desenvolver, as dificuldades que teve e as motivações para usar uma ou outra tecnologia e estratégia.
@@ -49,6 +49,6 @@ No dia e horário combinados você deverá apresentar e explicar para algumas pe
 É importante que o projeto desenvolvido seja enviado até um dia antes do dia da apresentação. Não envie sua resolução por email. Crie um repositório em alguma ferramenta (Github :heart:, Bitbucket ou Gitlab) e passe o link. Caso não possua nenhum desses serviços, gere um .zip dos arquivos, suba-os no Google Drive, Dropbox ou One Drive e passe o link do arquivo por e-mail.
 
 ## Dúvidas?
-Caso apareçam dúvidas entre em contato o mais cedo possível. Seu tempo está correndo.
+Caso apareçam dúvidas entre em contato o mais rápido possível. Seu tempo está correndo.
 
 **Boa sorte! xD**
