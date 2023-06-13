@@ -1,11 +1,7 @@
 # Desafio 4Devs
 
-> [![Logo Forlogic](http://www.forlogic.net/wp-content/uploads/2017/03/cropped-logo_GrupoForLogic.png)](http://gente.forlogic.net)
-> 
 > Aqui, o objetivo é avaliar de forma prática algumas habilidades técnicas como lógica, orientação a objetos, qualidade e clareza do código, além da sua capacidade de entrega.
 > 
-> [E aí? Topa o desafio?](http://gente.forlogic.net)
->
 
 ## Qual é o desafio?
 Imagine a situação em que você trabalha em uma empresa, onde mensalmente é realizada uma pesquisa com 20% dos clientes para verificar a satisfação deles em relação aos produtos e serviços prestados.
@@ -35,9 +31,9 @@ Não é necessário fazer todos os itens do nível recomendável ou avançado. V
 ## Orientações gerais
 - As telas da aplicação devem ser criadas de acordo com o **que você entender do contexto**, sempre de forma que facilite a utilização pelos usuários.
 - Fique à vontade para utilizar a linguagem, framework ou tecnologias que você quiser. Se já tiver alguma experiência ou familiaridade, recomendamos a stack:
-  - **backend**: C# com .net core 2.2 ou 3.1
-  - **frontend**: Angular 8 ou 9
-  - **banco de dados**: SQL Server 2017
+  - **backend**: C# com .net últimas versões
+  - **frontend**: Angular últimas versões
+  - **banco de dados**: SQL Server últimas versões
 - Você será o responsável por todo o desenvolvimento dessa aplicação (frontend, backend, bancos de dados e o que mais a sua imaginação mandar).
 - Se você não entender ou não souber implementar algo que foi solicitado, é importante que você se concentre em entregar **o que você conseguir**. Recomendamos que não desista, mas se for desistir nos comunique imediatamente para cancelarmos o nosso compromisso.
 - Uma regra muito importante desse desafio é que ele deve ser feito **exclusivamente por você**. É claro que você poderá consultar a Internet ou pedir alguma ajuda, mas a intenção desse desafio é avaliar os seus conhecimentos e experiência. ;)
