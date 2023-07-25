@@ -17,16 +17,8 @@ Nesse desafio, você trabalhará no desenvolvimento de uma aplicação **Web**, 
   - Aplicação responsiva
   - Autenticação dos usuários (login)
   - Validação das regras da aplicação no frontend e no backend
-- **Avançado**
-  - Permissões para os usuários
-  - Testes automatizados
-  - Arquitetura de microsserviços
-  - Registro de logs para todas as ações
-  - Replicação em banco de dados NoSQL para consultas
-  - Cuidados com a segurança das informações
-  - Relatório(s)
   
-Não é necessário fazer todos os itens do nível recomendável ou avançado. Você pode fazer todos ou escolher apenas alguns para entregar e apresentar.
+Não é necessário fazer todos os itens do nível recomendável. Você pode fazer todos ou escolher apenas alguns para entregar e apresentar.
 
 ## Orientações gerais
 - As telas da aplicação devem ser criadas de acordo com o **que você entender do contexto**, sempre de forma que facilite a utilização pelos usuários.
